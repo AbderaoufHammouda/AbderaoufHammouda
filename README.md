@@ -1,4 +1,4 @@
-<h2 align="left">Hi it's Abderaouf</h2>
+<h2 align="left">welcome buddyf</h2>
 <div align="center"> <img align="right" height="150" src="https://media1.tenor.com/m/2oYs875kVacAAAAd/vermithor-rhaenyra-dragon.gif" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbderaoufHammouda&theme=bear&hide_border=false&count_private=true&disable_animations=false" height="200" alt="stats graph" />
 </div>
