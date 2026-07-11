@@ -57,5 +57,5 @@
 <h2 align="center"> Building & Learning Every Day</h2>
 
 <p align="center">
-If you're into React, Machine Learning, Cybersecurity, or UI/UX — we're already friends 
+If you're into Machine Learning, we're already friends 
 </p>
