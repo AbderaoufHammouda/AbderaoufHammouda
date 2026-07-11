@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center"> Full-Stack Developer | ML & Cybersecurity Enthusiast</h2>
+<h2 align="center"> Full-Stack Developer | ML Enthusiast</h2>
 
 <p align="center">
   Passionate about building modern web applications, solving CTF challenges, and crafting elegant UI/UX with Tailwind CSS.
